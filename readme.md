@@ -9,7 +9,7 @@ Tämä repository on Gitin harjoittelua varten. Tehtävässä on käyty lävitse
   <li>Konfliktit</li>
 </ul>
 
-#Osoitteet
+# Osoitteet
 
 Repositoryn osoite: https://github.com/Mallunkultanen/oispakaljaa.git
 
