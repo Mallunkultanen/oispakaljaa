@@ -1,4 +1,9 @@
 # GIT-TREENI
 
 ## Yleistä
-On tärkeää osata gitin peruskomennot, jotta ymmärtää siitä jotain
+Tämä repository on Gitin harjoittelua varten. Tehtävässä on käyty lävitse esimerkiksi
+
+<ul>
+<li>Bird</li>
+<li>Magic</li>
+</ul>
