@@ -8,3 +8,6 @@ Tämä repository on Gitin harjoittelua varten. Tehtävässä on käyty lävitse
 <li>Branchit</li>
   <li>Konfliktit</li>
 </ul>
+
+#Osoitteet
+Repositoryn osoite: [https://github.com/Mallunkultanen/oispakaljaa.git]
