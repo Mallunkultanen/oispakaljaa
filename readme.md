@@ -4,6 +4,7 @@
 Tämä repository on Gitin harjoittelua varten. Tehtävässä on käyty lävitse esimerkiksi
 
 <ul>
-<li>Bird</li>
-<li>Magic</li>
+<li>Gitin peruskäyttö</li>
+<li>Branchit</li>
+  <li>Konfliktit</li>
 </ul>
