@@ -10,6 +10,7 @@ Tämä repository on Gitin harjoittelua varten. Tehtävässä on käyty lävitse
 </ul>
 
 #Osoitteet
+
 Repositoryn osoite: https://github.com/Mallunkultanen/oispakaljaa.git
 
 Repository voidaan kloonata komennolla
